@@ -1,3 +1,5 @@
+# DATE :
+
 #  Mean and variance of a discrete  distribution
 
 
@@ -49,7 +51,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program 
 
-![Program ex 1](https://github.com/Hemaatchu/Mean-and-Variance/assets/147328300/fd70d579-e4f6-4b30-9edd-9dedafe534d7)
+![Program ex 1 (2)](https://github.com/Hemaatchu/Mean-and-Variance/assets/147328300/46ddae58-f8b1-467f-a72c-f8c1711c325f)
+
 
 # Output : 
 
