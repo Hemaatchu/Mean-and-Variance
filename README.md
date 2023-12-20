@@ -47,11 +47,14 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
-# Program :
+# Program 
 
-
+![Program ex 1](https://github.com/Hemaatchu/Mean-and-Variance/assets/147328300/fd70d579-e4f6-4b30-9edd-9dedafe534d7)
 
 # Output : 
+
+![output ex 1](https://github.com/Hemaatchu/Mean-and-Variance/assets/147328300/a81e5ba3-257f-4b81-a970-52505c323b36)
+
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
